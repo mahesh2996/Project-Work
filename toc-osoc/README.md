@@ -9,8 +9,8 @@
 <h2>Solution:</h2>
 * Item Tocsin is upgraded version of drowsiness detection model .This helps the user to find the Last active session in a multimedia file and improve the system performance by reducing battery consumption.
 <h2>Working progress:</h2>
-* Item user need to activate the tocsin before going to streaming media files
-* Item If user get drowsiness or not watching the screen, Tocsin gives alarm in interval basis .(for example it will give alarm if user not focus on the system screen more then 3 Min.)
+<li> user need to activate the tocsin before going to streaming media files</li>
+<li>Item If user get drowsiness or not watching the screen, Tocsin gives alarm in interval basis .(for example it will give alarm if user not focus on the system screen more then 3 Min.</li>
 * Item This loop going to one more time.if user eye not detected, it will take screen shot of the current screen in user specific folder.and shut-down the system.
 <h2>Advantage:</h2>
 1.Increase the system performance in long run
